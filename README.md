@@ -1,1 +1,1 @@
-# Talk-JSON-and-AJAX-for-beginners
+# JSON and AJAX for Beginners
