@@ -3,6 +3,39 @@
 [Presentation Slides](https://docs.google.com/presentation/d/1VAAXiXvvj3sqwhJmeRD4W8hEd3bLlZqlGr0PJ3Cmt0A)
 
 
+## Examples in this repo
+
+### Objects and Arrays
+`objects-and-arrays-example` folder
+
+We go over creating sock objects one step at a time
+
+### JSON VS XML
+`json-vs-xml` folder
+
+See the same data in both json and xml formats to compare
+
+### JavaScript Object vs JSON
+
+`object-vs-json` folder
+
+Compare a JavaScript Object with the same data in JSON format
+
+### AJAX local example (requires a web server)
+
+`ajax-example-local` folder
+
+See a simple program that fetches data from a local JSON file
+
+### AJAX remote example (requires a web server)
+
+`ajax-example-remote` folder
+
+See a simple program that fetches data from the OpenGraph API about a given website
+
+
+
+
 ## Helpful resources
 
 - [JSLint](http://jslint.com) - Check your JSON for syntax errors
