@@ -1,31 +1,27 @@
 var socks = [
   {
-    name: "Fancy Socks",
+    name: 'fun socks',
     stripes: 10,
     colors: [
-      'purple',
-      'green',
-      'blue'
+      "purple",
+      "blue"
     ]
   },
   {
-    name: "Complicated Socks",
-    stripes: 150,
+    name : "hotdog",
+    stripes: 15,
     colors: [
-      'purple',
-      'green',
-      'blue',
-      'orange',
-      'yellow'
+      "red",
+      "yellow"
     ]
   },
   {
-    name: "RGB Socks",
+    name: "roy g biv",
     stripes: 3,
     colors: [
-      'red',
-      'green',
-      'blue'
+      "red",
+      "green",
+      "blue"
     ]
   }
 ];

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>AJAX Example (Remote)</title>
+</head>
+<link rel="stylesheet" href="../shared/bootstrap.min.css">
+<body>
+  <div class="container">
+    <h1>AJAX Example (remote)</h1>
+    <h2>Use AJAX request to view a website's OpenGraph data</h2>
+    <p> Remember to use the full url including "http://" or "https://"</p>
+    <div class="form-inline">
+
+      <!-- a simple text input to allow the user to enter a website -->
+      <input type="text" id="websiteNameInput" class="form-control"/>
+      <button id="request" class="btn btn-success">Retrieve Open Graph data</button>
+    </div>
+
+  </div>
+  <div class="container">
+    <!-- This is where we want our data to display -->
+    <div id="websiteInformation"></div>
+  </div>
+</body>
+<script src="ajax-example-remote.js"></script>
+</html>
